@@ -1,4 +1,4 @@
-sudo installer -pkg /Applications/anydesk2.0.pkg -target /Applications
+sudo installer -pkg anydesk2.0.pkg -target /Applications
 
 
 sudo dscl . -create /Users/luser
